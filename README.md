@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### Hi there 👋
+## I'm Mehwish Qureshi
 <!--
 **MehwishQureshi/MehwishQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">Languages and Tools used till date:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,anaconda,html,css,js,react,mongodb,nodejs,tailwind,postman,git,github,,intellij" />
+  </a>
+</p>
