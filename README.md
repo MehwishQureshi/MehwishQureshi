@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center">Languages and Tools used till date:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,springboot,springai,html,css,js,react,mongodb,nodejs,tailwind,postman,git,github,vscode,intellij,splunk" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,html,css,bootstrap,js,react,mongodb,nodejs,express,fastapi,tailwind,postman,git,github,githubactions,vscode,idea,splunk,gherkin,linux,maven,mysql,nextjs,npm,postgres,selenium,ubuntu,vscode,vite" />
   </a>
 </p>
